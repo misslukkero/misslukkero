@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daiana Senese
 
-### ☁️ Cloud & Automation Consultant | IT Specialist
+### ☁️ Cloud & Automation Consultant | IT Specialist | Developer
 
 <details>
 <summary>🇪🇸 Leer en Español</summary>
