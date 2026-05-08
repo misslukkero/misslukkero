@@ -1,37 +1,4 @@
 # 👋 Hi, I'm Daiana Senese
-### ☁️ Cloud & Automation Consultant | IT Specialist
-Soy una apasionada de la tecnología y la optimización de procesos. Mi enfoque combina la consultoría técnica con el desarrollo de soluciones modernas para mejorar la eficiencia operativa.
-
----
-
-### 🚀 Sobre mí
-- 👀 **Intereses:** Desarrollo de software, arquitectura de sistemas y mejora continua. Fuera de la pantalla, me encontrarás en mis **rollerblades** 🛼 o enfocada en el crecimiento personal.
-- 🌱 **Aprendizaje actual:** Profundizando en herramientas de desarrollo (Next.js, TypeScript, i18n) para crear soluciones digitales escalables y trabajar de forma remota.
-- 💞️ **Colaboración:** Busco participar en proyectos que me permitan aprender de la experiencia real. He pasado de crear sitios en WordPress a obtener mi certificación de Desarrolladora y trabajar como **IT Specialist Support**.
-
----
-
-### 🛠️ Tech Stack & Herramientas
-- **Low-Code/No-Code:** Microsoft Power Platform (Power Automate, Power Apps), SharePoint.
-- **Web Development:** Next.js, React, TypeScript, Tailwind CSS.
-- **Tools:** Git, GitHub, Vercel, DocuSign Integration.
-- **CMS:** WordPress.
-
----
-
-### 📈 Mi camino hasta ahora
-- ✅ Certificación de Developer completada.
-- ✅ Migraciones de sistemas y procesos documentales exitosas.
-- ✅ Rol actual como IT Specialist Support, garantizando la continuidad operativa.
-- 🚀 Siempre buscando el siguiente desafío técnico.
-
----
-
-### 📫 Conectemos
-- **Portfolio:** [v0-daianasenese.vercel.app](https://v0-daianasenese.vercel.app/)
-- **LinkedIn:** [linkedin.com/in/daianasenese](https://linkedin.com/in/daianasenese/)
-
-# 👋 Hi, I'm Daiana Senese
 
 ### ☁️ Cloud & Automation Consultant | IT Specialist
 
